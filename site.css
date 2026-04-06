@@ -70,7 +70,6 @@ body {
     width: 400px;
     grid-gap: 30px;
 }
-
 .question-answer {
     grid-row: 4;
     grid-column: 1 / span 2;
